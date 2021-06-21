@@ -1,5 +1,7 @@
-# BatchMacro
+# Batch Macro
 Laura Cooper
+
+ImageJ macro for running a macro on all images in a dataset
 
 ## Install
 
