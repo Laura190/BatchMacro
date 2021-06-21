@@ -3,7 +3,7 @@ Laura Cooper
 
 ## Install
 
-Copy the class file in to the plugins folders in the Fiji.app directory
+Copy the class file in to the plugins folders in the Fiji.app directory \
 The class file is compiled from https://github.com/mutterer/weird/tree/master/MacrOmero_ext
 
 
