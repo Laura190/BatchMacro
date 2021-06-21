@@ -5,7 +5,7 @@ run("MacrOmero ext");
 #@ String (label = "password", style="password", value = "public") pass
 #@ String (label = "server", value = "camdu.warwick.ac.uk") host
 #@ Integer (label = "port", value = 4064) port
-#@ Integer (label = "Dataset ID", value = 13852) dataset_id
+#@ Integer (label = "Dataset ID", value = 10000) dataset_id
 #@ File (label = "Macro", style="file") input
 
 //Connect to server and apply macro to each image in dataset
